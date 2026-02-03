@@ -20,7 +20,7 @@ The dataset used in this project was sourced from Kaggle and consists of tabular
 - Evaluated performance using MAE and RMSE metrics
 
 ## Key Results or Observations
-- Mean Absolute Error (MAE): approximately 153,000
-- Root Mean Squared Error (RMSE): approximately 393,000
+- Mean Absolute Error (MAE): approximately $153,000
+- Root Mean Squared Error (RMSE): approximately $393,000
 - The model successfully learned from both image and tabular data modalities
 - Higher RMSE indicates sensitivity to high-priced property outliers and highlights potential areas for model improvement
